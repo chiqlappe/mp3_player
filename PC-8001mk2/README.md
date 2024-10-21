@@ -9,10 +9,13 @@
 
 |項目|仕様|
 |:-|:-|
-|対応メディア|USBメモリスティック,microSD|
+|対応メディア|USBメモリスティック,microSDカード|
 |通信速度|9600bps|
 |シリアルポート設定|ボーレート=x1,キャラクタ長=8ビット,ストップビット=1ビット|
+|ディレクトリ名|`2桁の数字`|
+|ファイル名|`3桁の数字+自由な文字列.mp3`|
 
+- `001abc.mp3`,`002defg.mp3`などのファイル名が有効
 
 ## 部品表
 |名称|値|数量|メモ|
@@ -29,17 +32,19 @@
 |RS232CインターフェイスIC|SP233ACP|1|[秋月電子](https://akizukidenshi.com/catalog/g/g100197/)|
 |スライドスイッチ|DPDT|1|[秋月電子](https://akizukidenshi.com/catalog/g/g102627/)|
 
-- この他に[5VのACアダプタ](https://akizukidenshi.com/catalog/g/g111996/)が必要です
+- この他に[5VのACアダプタ](https://akizukidenshi.com/catalog/g/g111996/)と外部スピーカーが必要です
 - Dサブコネクタの金属部分は不要ですので取り外して下さい
 
 ## 本体との接続
 1. 本体の電源を切ります
 2. 本体背面のジャンパスイッチを４にします
 3. MP3プレーヤーをシリアルポートに接続します
-4. DCジャックにACアダプタを接続します
-5. ステレオミニジャックに外部スピーカーを接続します
-6. 本体の電源を入れます
-7. [デモプログラム](https://github.com/chiqlappe/mp3_player/tree/main/PROGRAMS)を実行して動作を確認して下さい
+4. MP3ファイルの入ったUSBメモリスティック、またはmicroSDカードを挿入します
+5. DCジャックにACアダプタを接続します
+6. ステレオミニジャックに外部スピーカーを接続します
+7. MP3プレーヤーのスイッチをONにします(LEDが点灯します)
+8. 本体の電源を入れます
+9. [デモプログラム](https://github.com/chiqlappe/mp3_player/tree/main/PROGRAMS)を実行して動作を確認して下さい
    
 ![写真2](https://github.com/chiqlappe/mp3_player/blob/main/PC-8001mk2/images/IMG_2417.JPG)
 
