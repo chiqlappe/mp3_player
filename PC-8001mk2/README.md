@@ -29,9 +29,14 @@
 |RS232CインターフェイスIC|SP233ACP|1|[秋月電子](https://akizukidenshi.com/catalog/g/g100197/)|
 |スライドスイッチ|DPDT|1|[秋月電子](https://akizukidenshi.com/catalog/g/g102627/)|
 
+- この他に5VのACアダプタが必要です [参考](https://akizukidenshi.com/catalog/g/g111996/)
+
 ## 本体との接続
 1. 本体の電源を切ります
 2. MP3プレーヤーをシリアルポートに接続します
-3. 本体の電源を入れて対応するプログラムを起動して下さい
-
+3. ACアダプタをDCジャックに挿入します
+4. 本体の電源を入れます
+5. [デモプログラム](https://github.com/chiqlappe/mp3_player/tree/main/PROGRAMS)を実行して動作を確認して下さい
    
+![写真2](https://github.com/chiqlappe/mp3_player/blob/main/PC-8001mk2/images/IMG_2417.JPG)
+
