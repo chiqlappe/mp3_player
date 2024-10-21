@@ -29,7 +29,8 @@
 |RS232CインターフェイスIC|SP233ACP|1|[秋月電子](https://akizukidenshi.com/catalog/g/g100197/)|
 |スライドスイッチ|DPDT|1|[秋月電子](https://akizukidenshi.com/catalog/g/g102627/)|
 
-- この他に5VのACアダプタが必要です [参考](https://akizukidenshi.com/catalog/g/g111996/)
+- この他に[5VのACアダプタ](https://akizukidenshi.com/catalog/g/g111996/)が必要です
+- Dサブコネクタの金属部分は不要ですので取り外して下さい
 
 ## 本体との接続
 1. 本体の電源を切ります
