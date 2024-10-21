@@ -1,6 +1,6 @@
 # MP3プレーヤー デモプログラム
 
-[demo.wav](PROGRAMS/demo.wav)
+[demo.wav](demo.wav)
 
 - BASICからMP3プレーヤーを操作するためのデモプログラムです
 - 使用時はシリアルポートを下記の設定にして下さい
