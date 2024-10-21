@@ -3,10 +3,10 @@
 PC-8001/PC-8001mk2用
 
 [demo.wav](https://github.com/chiqlappe/mp3_player/blob/main/PROGRAMS/demo.wav)
-動作確認用プログラム
+デモプログラム
 
 [demo.bas](https://github.com/chiqlappe/mp3_player/blob/main/PROGRAMS/demo.bas)
-動作確認用プログラムのソース
+デモプログラムのソース
 
 [drivers.asm](https://github.com/chiqlappe/mp3_player/blob/main/PROGRAMS/drivers.asm)
-動作確認用プログラムで使用されているMP3プレーヤードライバのソース
+デモプログラムで使用されているドライバのソース
