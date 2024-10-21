@@ -19,7 +19,7 @@
 |:-|:-|:-:|:-|
 |カーボン抵抗|1KΩ|1| |
 |セラミックコンデンサ|0.01u|1| |
-|セラミックコンデンサ|100u|1| |
+|電解コンデンサ|100u|1| |
 |LED|3mm|1| |
 |MP3 Player|DFPlayer mini|1|[秋月電子](https://akizukidenshi.com/catalog/g/g112544/)|
 |USBコネクタ|Aタイプ メス|1|[秋月電子](https://akizukidenshi.com/catalog/g/g111551/)|
