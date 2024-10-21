@@ -12,7 +12,7 @@
 |セラミックコンデンサ|0.01u|1| |
 |電解コンデンサ|100u|1| |
 |LED|3mm|1| |
-|MP3 Player|DFPlayer mini|1|[秋月電子](https://akizukidenshi.com/catalog/g/g112544/)|
+|MP3プレーヤー|DFPlayer mini|1|[秋月電子](https://akizukidenshi.com/catalog/g/g112544/)|
 |USBコネクタ|Aタイプ メス|1|[秋月電子](https://akizukidenshi.com/catalog/g/g111551/)|
 |ステレオミニジャック|3.5mm|1|[秋月電子](https://akizukidenshi.com/catalog/g/g109060/)|
 |標準DCジャック|2.1mm|1|[秋月電子](https://akizukidenshi.com/catalog/g/g106568/)|
