@@ -1,6 +1,6 @@
 # PC-8001mk2用 MP3プレーヤー
 
-![写真1](https://github.com/chiqlappe/mp3_player/blob/main/PC-8001mk2/images/IMG_2406.JPG)
+![写真1](https://github.com/chiqlappe/mp3_player/blob/main/PC-8001mk2/images/pcb_rev4.png)
 
 ## 概要
 - PC-8001mk2のシリアルポートからMP3プレーヤーをコントロールできます
