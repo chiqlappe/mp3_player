@@ -46,5 +46,4 @@
 8. 本体の電源を入れます
 9. [デモプログラム](https://github.com/chiqlappe/mp3_player/tree/main/PROGRAMS)を実行して動作を確認して下さい
    
-![写真2](https://github.com/chiqlappe/mp3_player/blob/main/PC-8001mk2/images/IMG_2417.JPG)
 
