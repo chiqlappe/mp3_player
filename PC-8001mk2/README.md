@@ -36,9 +36,10 @@
 1. 本体の電源を切ります
 2. 本体背面のジャンパスイッチを４にします
 3. MP3プレーヤーをシリアルポートに接続します
-4. ACアダプタをDCジャックに挿入します
-5. 本体の電源を入れます
-6. [デモプログラム](https://github.com/chiqlappe/mp3_player/tree/main/PROGRAMS)を実行して動作を確認して下さい
+4. DCジャックにACアダプタを接続します
+5. ステレオミニジャックに外部スピーカーを接続します
+6. 本体の電源を入れます
+7. [デモプログラム](https://github.com/chiqlappe/mp3_player/tree/main/PROGRAMS)を実行して動作を確認して下さい
    
 ![写真2](https://github.com/chiqlappe/mp3_player/blob/main/PC-8001mk2/images/IMG_2417.JPG)
 
