@@ -3,7 +3,7 @@
 ![写真1](images/pcb_8001_rev5.png)
 
 ## 概要
-- PC-8001用[シンプルシリアルポート]()からMP3プレーヤーをコントロールできます
+- PC-8001用[シンプルシリアルポート](https://github.com/chiqlappe/simple_serial_port/)からMP3プレーヤーをコントロールできます
 
 ## 部品表
 |名称|値|数量|メモ|
