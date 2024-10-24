@@ -1,7 +1,7 @@
 
 ;-------------------------------
 ;MP3プレーヤー用プログラム
-;2024/10/21
+;2024/10/24
 ;x.com/chiqlappe
 ;
 ;注意
@@ -18,10 +18,7 @@
 ;   https://drive.google.com/file/d/1FfOZJdB9Q0GYQllW3_FLckE7aC8jizcE/view
 ;-------------------------------
 
-DFP_CMD_MEDIA		equ	$09	;再生するデバイスを選択する
 DFP_CMD_RESET		equ	$0C	;チップをリセットする
-DFP_USB			equ	1	;USB
-DFP_SD			equ	2	;SD
 DFP_SIZE		equ	10	;コマンドバイト列のサイズ
 UARTD			equ	$20	;UART データポート
 UARTC			equ	UARTD+1	;UART コントロールポート
@@ -30,7 +27,6 @@ TXRDY			equ	0	;送信レディステータスのビット番号
 RXRDY			equ	1	;受信レディステータスのビット番号
 
 SYS_LAST30H		equ	$EA66
-SYS_PRINT		equ 	$52ED	;HL以降に格納された文字列(0終端)を出力する
 
 
 	org	$E000
